@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.image{
+    background-image: url(../image/task3\ background\ img.jpg);
+    background-size: 100%;
+    height: 745px;
+    width: 1536px;
+    background-repeat: no-repeat;
+} 
+
+
+
+.image .text ul li{
+    list-style: none;
+}
+
+
+
+
+.image .text ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+.image .text ul{
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+    padding-left: 350px;
+    padding-right: 330px;
+}
+
+
+
+
+.image .jon{
+    font-size: 30px;
+    color: white;
+    padding-left: 515px;
+    padding-top: 200px;
+    font-family: sans-serif;
+    display:flex;
+}
+
+
+
+
+.image .sent1{
+    color: rgb(164, 158, 158);
+    padding-left: 553px;
+    padding-top: 20px;
+}
+
+
+
+
+.image .sent2{
+    color: rgb(164, 158, 158);
+    padding-left: 550px;
+    padding-top: 10px;
+}
+
+
+
+
+.image .sent3{
+    color: rgb(164, 158, 158);
+    padding-left: 620px;
+    padding-top: 10px;
+}
+
+
+
+
+.image .line{
+    height: 1px;
+    border: 1px solid rgb(164, 158, 158);
+    margin-left: 585px;
+    margin-right: 546px;
+    margin-top: 15px;
+}
+
+
+
+
+.image .icon{
+    padding-left: 131px;
+    padding-right: 51px;
+}
+
+
+
+
+
+.image .icon ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 500px;
+    padding-left: 500px;
+    padding-top: 40px;
+    margin-right: 540px;
+}
+
+
+
+
+
+
+.image .icon ul li{
+    list-style: none;
+    font-size: 25px;
+}
+
+
+
+
+
+.image .icon ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.image .noqte{
+    height: 10px;
+    width: 10px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 4px;
+    display: flex;
+    margin-top: 46px;
+}
+
+.image .home{
+    color: orange;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+

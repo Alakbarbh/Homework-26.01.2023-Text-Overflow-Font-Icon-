@@ -1,0 +1,399 @@
+body {
+    background-color: #252B42;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.menu h2 {
+    margin-top: 45px;
+    margin-left: 250px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Secular One', sans-serif;
+
+}
+
+
+
+.menu {
+    display: flex;
+}
+
+
+
+
+.menu .text1 li a {
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.menu .text1 {
+    width: 300px;
+    margin-top: 55px;
+    margin-left: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.menu .text1 li {
+    list-style: none;
+}
+
+
+
+
+
+.start {
+    display: flex;
+}
+
+
+
+
+.login a {
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    padding-right: 35px;
+}
+
+
+
+
+.start .login {
+    margin-top: 55px;
+    width: 500px;
+    margin-left: 250px;
+}
+
+
+
+
+.start .login .join-us {
+    background-color: rgb(33, 169, 211);
+    border: 2px solid rgb(33, 169, 211);
+    color: white;
+    font-size: 15px;
+    padding: 13px;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+
+
+
+
+.login .loginn {
+    font-family: sans-serif;
+}
+
+
+
+
+
+.welcome {
+    text-align: center;
+    color: rgb(33, 169, 211);
+    margin-top: 70px;
+    font-family: sans-serif;
+    margin-left: 65px;
+}
+
+
+
+
+
+.selling {
+
+    width: 501px;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    margin-left: 550px;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+.text2 {
+    color: white;
+    text-align: center;
+    width: 365px;
+    margin-left: 620px;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+.text3 {
+    margin-top: 30px;
+    display: flex;
+    list-style: none;
+
+}
+
+
+
+
+.text3 li a {
+    margin-top: 20px;
+    margin-left: 670px;
+    text-decoration: none;
+    background-color: rgb(33, 169, 211);
+    border: 2px solid rgb(33, 169, 211);
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+
+
+.text3 li .learn-more {
+    text-decoration: none;
+    background-color: #252B42;
+    border: 1px solid rgb(33, 169, 211);
+    color: rgb(33, 169, 211);
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+.square {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+
+
+
+
+.square .square1 {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-right: 50px;
+}
+
+
+
+
+
+.square .square1 i {
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-top: 13px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(255, 180, 180);
+    background-color: rgb(255, 180, 180);
+    font-size: 20px;
+    color: red;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+.square .square1 h2 {
+    font-size: 15px;
+    padding-left: 32px;
+    padding-top: 20px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+.square .square1 .sentences {
+    width: 50px;
+    height: 2px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+
+
+
+
+
+.square .square1 p {
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 31px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+.square .square2 {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-right: 50px;
+}
+
+
+
+
+
+
+.square .square2 h2 {
+    font-size: 15px;
+    padding-left: 32px;
+    padding-top: 20px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+.square .square2 .sentences {
+    width: 50px;
+    height: 2px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+
+
+
+
+.square .square2 p {
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 31px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+.square .square2 i {
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-top: 13px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(170, 255, 192);
+    background-color: rgb(170, 255, 192);
+    font-size: 20px;
+    color: rgba(9, 255, 0, 0.849);
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+.square .square3 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(33, 169, 211);
+}
+
+
+
+
+
+.square .square3 i {
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-top: 13px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    color: rgb(33, 169, 211);
+    border-radius: 5px;
+}
+
+
+
+
+
+.square .square3 h2 {
+    color: white;
+    font-size: 15px;
+    padding-left: 32px;
+    padding-top: 20px;
+    font-family: sans-serif;
+}
+
+
+
+
+.square .square3 .sentences {
+    width: 50px;
+    height: 2px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+
+
+
+
+.square .square3 p {
+    margin-right: 20px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 31px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
